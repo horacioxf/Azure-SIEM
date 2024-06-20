@@ -62,7 +62,8 @@ The following table shows the metrics we measured in our insecure environment fo
 
 ## Metrics After Hardening / Security Controls
 
-The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
+The following table shows the metrics we measured in our environment for another 24 hours, but after we performed incident response and applied security controls:
+
 | Start Time               | Stop Time
 | ------------------------ | -----
 |2024-06-17 22:25:58       | 2024-06-18 22:25:58
@@ -77,6 +78,8 @@ The following table shows the metrics we measured in our environment for another
 | AzureNetworkAnalytics_CL | 0
 
 ## Results
+
+The following table shows an decrease in counts from the "BEFORE" and "AFTER" metrics.
 
 | Metric                   | Change After Security Environment
 | ------------------------ | -----
