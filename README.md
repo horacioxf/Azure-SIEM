@@ -62,7 +62,7 @@ The following table shows the metrics we measured in our insecure environment fo
 
 ## Metrics After Hardening / Security Controls
 
-The following table shows the metrics we measured in our environment for another 24 hours, but after we performed incident response and applied security controls:
+The following table shows the metrics we measured in our environment for another 24 hours, but after we applied security controls:
 
 | Start Time               | Stop Time
 | ------------------------ | -----
