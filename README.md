@@ -34,9 +34,9 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-![nsg-malicious-allowed-in(before)](https://github.com/horacioxf/Azure-SOC/assets/100793672/1b029cb9-318a-4a8a-a435-3a049db6f9e6)<br>
-![linux-ssh-auth-fail(before)](https://github.com/horacioxf/Azure-SOC/assets/100793672/97409880-9972-4aa1-b630-0ee50a128f7d)<br>
-![mssql-auth-fail(before)](https://github.com/horacioxf/Azure-SOC/assets/100793672/50802442-0c2e-41a6-b856-57607bf11816)<br>
+![Nsg-Malicious-Allowed-In](https://github.com/horacioxf/Azure-SOC/assets/100793672/e73557cd-d142-4d45-9152-5a59fb8feefe)<br>
+![Linux-SSH-Auth_Fail](https://github.com/horacioxf/Azure-SOC/assets/100793672/769cd252-f9b6-4bd3-8a84-6c96cd1cf254)<br>
+![MSSWL-Auth-Fail](https://github.com/horacioxf/Azure-SOC/assets/100793672/f5ae71b6-d540-42c7-8b8e-53edb3fdf4cb)<br>
 
 ## Metrics Before Hardening / Security Controls
 
